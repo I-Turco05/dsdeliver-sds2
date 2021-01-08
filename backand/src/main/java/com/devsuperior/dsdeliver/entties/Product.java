@@ -66,12 +66,12 @@ public class Product implements Serializable {
 		this.description = description;
 	}
 
-	public String getImageUrl() {
+	public String getImageUri() {
 		return imageUri;
 	}
 
 	public void setImageUrl(String imageUrl) {
-		this.imageUri = imageUrl;
+		this.imageUri = imageUri;
 	}
 
 	@Override
